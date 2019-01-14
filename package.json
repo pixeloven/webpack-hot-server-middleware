@@ -13,17 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/60frames/webpack-hot-server-middleware.git"
+    "url": "https://github.com/pixeloven/webpack-hot-server-middleware.git"
   },
   "author": {
-    "name": "Richard Scarrott",
-    "email": "rich@60fram.es"
+    "name": "Brian Gebel",
+    "email": "brian@pixeloven.com"
   },
   "license": "MIT",
   "dependencies": {
     "debug": "^3.1.0",
-    "require-from-string": "^2.0.1",
-    "source-map-support": "^0.5.3"
+    "require-from-string": "^2.0.2",
+    "source-map-support": "^0.5.10"
   },
   "peerDependencies": {
     "webpack": "*"
